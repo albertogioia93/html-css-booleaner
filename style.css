@@ -21,3 +21,13 @@ body{
 #thebooleaner{
     color: rgb(36,170,229);
 }
+
+
+.thead{
+    color: white;
+    background-color: rgb(32,169,229);
+}
+
+.tb{
+    background-color: rgb(177,229,242);
+}
