@@ -1,5 +1,14 @@
-div{
-    color: red;
-    height: 500px;
-    background-color: black;
+
+
+#logo{
+    width: 205px;
+    padding-top: 30px;
 }
+
+.logoo{
+    background-size: contain;
+    background-image: url(img/pattern.png);
+    background-color: rgb(78,160,255)
+    
+}    
+    
